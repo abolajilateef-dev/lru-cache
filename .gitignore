@@ -1,0 +1,5 @@
+build*/
+*.bak
+*.good
+.vscode/
+results/revert_report.md
